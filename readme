@@ -1,0 +1,16 @@
+<.......................Important..............................>
+Platform	: 	Python 3.6
+Modules Imported: 	numpy
+Input		:	Input has been generated as part of the code(Line 26)
+
+
+How to run the code:-
+
+1) The entire code is written in one file Coding.py. The code is well commented to understand its flow and contains explanation on implementation of algorithm. The functions are defined in the same file and at the beginning .
+2) The input data points are generated as a part of the code (Line 41).
+3) Run the code
+4) Result is printed in the console at the end the execution of code. 
+
+There are no other files involved with this submission.
+
+PS: In real-life scenario, the input array would be real time and not stored in a list. But since 10000 is not a huge number I generated it beforehand an not on the fly to simplify testing.
